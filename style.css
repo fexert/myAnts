@@ -1,0 +1,44 @@
+body{
+	background-image: url("Paraponera_Clavata.jpg") ;
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-color:#00CC00;
+}
+#welcome_tag{
+	  font-family: sans-serif ;
+	/*font-weight: bold;*/
+	position: relative;
+	/*margin-left:540px;*/
+	  position: absolute;
+	  left: 28%;
+	  border: 3px outset royalblue;
+	  padding-left: 150px;
+	  padding-right: 150px;
+	  padding-bottom: 20px;
+	  padding-top: 20px;
+	  background-color: #00cc00;
+	  /*-webkit-text-stroke: 1px white;*/
+
+}
+#main{
+	position: relative;
+	padding-top: 150px;
+	margin-left: 50px;
+	font-family: sans-serif;
+	font-weight: bolder;
+	font-size: 32px;
+	-webkit-text-stroke: 1px white;
+}
+#Tetramorium{
+	display: block;
+	position: relative;
+	text-decoration: None;
+	font-weight: bolder;
+	color: black;
+	font-size: 32px;
+	-webkit-text-stroke: 1px royalblue;
+	font-family: sans-serif;
+	margin-top:600px ;
+	margin-bottom:800px;
+	margin-left: 60px;
+}
